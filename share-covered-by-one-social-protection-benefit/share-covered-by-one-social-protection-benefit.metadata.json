@@ -1,0 +1,51 @@
+{
+  "chart": {
+    "title": "Share covered by at least one social protection benefit",
+    "subtitle": "The percentage of the population that either benefits from or contributes to at least one social protection scheme. This includes programs such as maternity benefits, unemployment benefits, and pensions.",
+    "citation": "International Labour Organization",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-covered-by-one-social-protection-benefit?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "Europe (UN)",
+      "Oceania (UN)",
+      "Northern America (UN)",
+      "Latin America and the Caribbean (UN)",
+      "Central and Southern Asia (UN)",
+      "Eastern and South-Eastern Asia (UN)",
+      "Sub-Saharan Africa (UN)",
+      "Northern Africa (UN)",
+      "India",
+      "China",
+      "United Kingdom",
+      "Canada",
+      "United States",
+      "Tanzania",
+      "Indonesia",
+      "Bolivia",
+      "Argentina"
+    ]
+  },
+  "columns": {
+    "1.3.1 - [ILO] Proportion of population covered by at least one social protection benefit, by sex (%) - SI_COV_BENFTS - Both sexes": {
+      "titleShort": "1.3.1 - [ILO] Proportion of population covered by at least one social protection benefit, by sex (%) - SI_COV_BENFTS - Both sexes",
+      "titleLong": "1.3.1 - [ILO] Proportion of population covered by at least one social protection benefit, by sex (%) - SI_COV_BENFTS - Both sexes",
+      "descriptionShort": "[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",
+      "descriptionKey": [
+        "This indicator is calculated as the ratio of the population receiving cash benefits under at least one of multiple contingencies/social protection functions or actively contributing to at least one social security scheme to the total population. The different benefits are aimed at children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable."
+      ],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2015-2023",
+      "type": "Numeric",
+      "owidVariableId": 1126059,
+      "shortName": "_1_3_1__si_cov_benfts__both_sexes",
+      "lastUpdated": "2025-10-29",
+      "nextUpdate": "2027-10-29",
+      "citationShort": "International Labour Organization – with minor processing by Our World in Data",
+      "citationLong": "International Labour Organization – with minor processing by Our World in Data. “1.3.1 - [ILO] Proportion of population covered by at least one social protection benefit, by sex (%) - SI_COV_BENFTS - Both sexes” [dataset]. International Labour Organization, “ILO modelled estimates 2024, ILO estimates based on national sources” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1126059.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-05-31",
+  "activeFilters": {}
+}
